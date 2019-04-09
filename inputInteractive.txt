@@ -1,0 +1,19 @@
+create_parking_lot 6
+park KA-01-HH-1234 White motorcycle
+park KA-01-HH-9999 White motorcycle
+park KA-01-BB-0001 Black motorcycle
+park KA-01-HH-7777 Red motorcycle
+park KA-01-HH-2701 Blue motorcycle
+park KA-01-HH-3141 Black motorcycle
+leave 4
+status
+park KA-01-P-333 White motorcycle
+park DL-12-AA-9999 White motorcycle
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number KA-01-HH-3141
+slot_number_for_registration_number MH-04-AY-1111
+registration_numbers_for_cars_with_colour Green
+slot_numbers_for_cars_with_colour Green
+parked KA-01-HH-4321 Green motorcycle
+exit
